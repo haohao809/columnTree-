@@ -3,6 +3,7 @@ import LabelTree from 'plugin'
 Vue.use(LabelTree);
 
 组件中使用
+
 <LabelTree :data="data"></LabelTree>
 
 data请求接口返回的数据
