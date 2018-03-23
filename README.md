@@ -1,5 +1,5 @@
 main.js入口文件引入
-import LabelTree from 'plugin'
+import LabelTree from 'plugin-vue-anzh'
 Vue.use(LabelTree);
 
 组件中使用
